@@ -1,5 +1,6 @@
-## Hi there 👋
-
+Hello, im Vizzion!
+Self taught programmer in training from the U.S
+Hope i can make something useful
 <!--
 **AyoVizzion69/AyoVizzion69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
