@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vizzion and I'm a programmer/sysadmin, from the U.S.></h2>
+<h2 align="left">Hi 👋! My name is Vizzion and I'm a programmer/sysadmin, from the U.S.</h2>
 
 ###
 
